@@ -1,0 +1,11 @@
+{
+  "domain": "kexp",
+  "name": "KEXP Streaming Archive",
+  "codeowners": [
+    "@sidberg"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/sidberg",
+  "iot_class": "cloud_polling",
+  "version": "0.9.0"
+}
